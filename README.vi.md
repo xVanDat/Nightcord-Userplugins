@@ -50,7 +50,6 @@ Dự án độc lập, không được Nightcord, Equicord, Vencord hay Discord 
 | `ClearGroups` | Rời hoặc đóng hàng loạt group DM. | Nghiêm trọng — phá hủy và khó đảo ngược. |
 | `closeGroup` | Xóa thành viên khỏi group DM do bạn sở hữu. | Cao — thay đổi nhóm gây gián đoạn. |
 | `customProfile` | Ghi đè hình ảnh profile chỉ ở local, không đồng bộ nhà cung cấp. | Trung bình — dữ liệu profile local và media do người dùng nhập. |
-| `customProfileEnhanced` | Profile local mở rộng, hỗ trợ badge/media tùy chọn. | Trung bình — chỉ dùng nguồn ngoài đáng tin; hình ảnh chỉ hiện ở client. |
 | `customStream` | Thay hoặc luân phiên ảnh xem trước stream và profile trình chiếu. | Cao — patch stream/UI dễ hỏng và có thể gây hiểu nhầm. |
 | `DMBomb` | Gửi DM hàng loạt mạnh tới thành viên/role và có thể luân phiên token. | Nghiêm trọng — spam cực cao, lộ token và khóa tài khoản. |
 | `doubleEmoji` | Giữ bảng emoji mở để chọn liên tiếp. | Thấp |

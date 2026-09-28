@@ -50,7 +50,6 @@ This project is independent and is not endorsed by Nightcord, Equicord, Vencord,
 | `ClearGroups` | Leaves or closes group DMs in bulk. | Critical — destructive and difficult to reverse. |
 | `closeGroup` | Removes members from a group DM you own. | High — disruptive group mutation. |
 | `customProfile` | Applies local-only visual profile overrides without vendor sync. | Medium — local profile data and user-provided remote media. |
-| `customProfileEnhanced` | Provides extended local-only custom profile visuals and optional badge/media sources. | Medium — remote sources must be trusted; visuals are client-side only. |
 | `customStream` | Replaces or cycles local stream preview images and presentation profiles. | High — fragile stream/UI patches and possible deception. |
 | `DMBomb` | Sends aggressive bulk DMs to server members or roles and can rotate tokens. | Critical — extreme spam, token, ban, and abuse risk. |
 | `doubleEmoji` | Keeps the emoji picker open for repeated selections. | Low |
